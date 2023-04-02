@@ -63,20 +63,27 @@ endmodule
 
 ### Output:
 HALF-ADDER:-
+
 ![image](https://user-images.githubusercontent.com/113497680/229346502-9bef87a8-90a6-41d8-83c4-f68a4efa850a.png)
 FULL-ADDER:-
+
 ![image](https://user-images.githubusercontent.com/113497680/229346543-1478511e-7eb8-4795-a993-3c7b8dd6c52e.png)
 
 ### RTL
 HALF-ADDER:-
+
 ![image](https://user-images.githubusercontent.com/113497680/229346568-62ee200f-911f-4bcd-b250-599fab6b8641.png)
 FULL-ADDER:-
+
 ![image](https://user-images.githubusercontent.com/113497680/229346797-73acabba-5cc1-40ec-aed6-7950aa1ff3a1.png)
 
 ### TIMING DIAGRAM
 HALF-ADDER:-
+
 ![image](https://user-images.githubusercontent.com/113497680/229346838-a0ab7f4e-67a5-4050-8bbd-c3d732226725.png)
+
 FULL-ADDER:-
+
 ![image](https://user-images.githubusercontent.com/113497680/229346952-c6e35335-01b6-40da-b138-066ea4dcacdf.png)
 
 ### TRUTH TABLE 
